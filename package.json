@@ -1,0 +1,14 @@
+{
+  "name": "node-handson1",
+  "version": "1.0.0",
+  "description": "What is Node JS ?\r Node Js is an open-source environment where we run Javascript in the back-end.\r Node Js is a free library that runs in V8 engine",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gtv sairam",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
